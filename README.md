@@ -1,2 +1,3 @@
-Ce travail vise à répondre en partie à la problématique d’organisation en proposant un micro-service capable de faire la classification automatique des documents.
-Il s'agit d'une API qui permet de faire la classification des documents à travers l'implémentation d'un modèle de prédiction en utilisant les technique de NLP et ML.
+Ce travail vise à répondre en partie à la problématique des organisations en proposant un micro-service capable de faire la classification automatique des documents ainsi que l'esxtraction automatique de l'information à partir des documents.
+Il s'agit d'une API qui permet de faire la classification des documents à travers l'implémentation d'un modèle de prédiction en utilisant les technique de NLP et ML. Et d'autres part en se basant sur ses techniques pour créer un modèle qui permet l'extraction automatique de l'information à partir des documents en utilisant la bibliothèque Spacy,NLP.
+L'API a été réalisée en utilisant Flask, Pycharm.
